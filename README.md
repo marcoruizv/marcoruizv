@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hola :) 
 
-<!--
-**marcoruizv/marcoruizv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✉️ hello@marcoruizv.com | 🌐 www.marcoruizv.com | 💼 www.linkedin.com/in/marcoruizv 
 
-Here are some ideas to get you started:
+Pronouns: `he/him/his`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Interests: ✈️ 🗺️ ⚽ ⛰️ 📷 🌊 💻 🚀
+
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=marcoruizv.marcoruizv)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=marcoruizv&show_icons=true&theme=vue-dark?count_private=true)
+
